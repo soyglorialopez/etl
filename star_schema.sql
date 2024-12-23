@@ -65,3 +65,5 @@ CREATE TABLE fact_sales (
 );
 
 
+git remote set-url origin https://soyglorialopez@github.com/<repository-owner>/etl.git
+git remote set-url origin https://github.com/soyglorialopez/etl.git
